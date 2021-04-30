@@ -529,7 +529,8 @@ nav .menu-btn{
         object-fit: contain;
     }
 
-    .footer p, a{
+    footer p,
+    footer a{
         text-align: center;
         font-size: 0.9rem;
     }
